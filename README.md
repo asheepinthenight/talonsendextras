@@ -1,4 +1,4 @@
-# Talon's End Extras (v2.1.0)
+# Talon's End Extras (v2.2.0)
 
 **Just want to play the game? Click [HERE](https://asheepinthenight.itch.io/talons-end-extras) to play it on Itch or [HERE](https://asheepinthenight.github.io/talonsendextras/) to play on Github.**
 

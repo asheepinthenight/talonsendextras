@@ -6,11 +6,12 @@ This is a compilation of extra interactive stories for Talon's End. If you haven
 
 If you want to download a local copy of Talon's End Extras, this is the place. Look for the latest release in the column on the right, download the index.html file, and launch it. That's it!
 
-## Stories Included in v2.1.0
+## Stories Included in v2.2.0
 
 - The Price of a Soul (Halloween 2023)
 - Valentine Extras (Valentine's Day 2024)
   - Evergreen (Hawk)
+  - The King of Faerie (Shea)
 
 ## Known Issues
 - Display scaling above 100% sometimes causes text to be hidden under the top and bottom menu bars

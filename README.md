@@ -1,4 +1,4 @@
-# Talon's End Extras (v2.2.0)
+# Talon's End Extras
 
 **Just want to play the game? Click [HERE](https://asheepinthenight.itch.io/talons-end-extras) to play it on Itch or [HERE](https://asheepinthenight.github.io/talonsendextras/) to play on Github.**
 
@@ -12,6 +12,7 @@ If you want to download a local copy of Talon's End Extras, this is the place. L
 - Valentine Extras (Valentine's Day 2024)
   - Evergreen (Hawk)
   - The King of Faerie (Shea)
+  - Awakening (poly)
 
 ## Known Issues
 - Display scaling above 100% sometimes causes text to be hidden under the top and bottom menu bars

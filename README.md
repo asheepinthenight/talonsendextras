@@ -6,7 +6,7 @@ This is a compilation of extra interactive stories for Talon's End. If you haven
 
 If you want to download a local copy of Talon's End Extras, this is the place. Look for the latest release in the column on the right, download the index.html file, and launch it. That's it!
 
-## Stories Included in v2.2.0
+## Stories Included:
 
 - The Price of a Soul (Halloween 2023)
 - Valentine Extras (Valentine's Day 2024)
